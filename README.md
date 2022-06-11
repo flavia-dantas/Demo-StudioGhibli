@@ -1,13 +1,9 @@
 # Projeto Data Lovers - Desenvolvido no Bootcamp Laboratória
 ## Studio Ghibli
 
-
 <img src="https://cdn.discordapp.com/attachments/725539486951538750/955512798241251348/Desktop_-_Movies_page_1.png">
 
-
-
-
-
+Para acessar a aplicação [clique aqui](https://flavia-dantas.github.io/Demo-StudioGhibli/)
 ## Sumário
 - [Definição do Produto](#definição-do-produto-pencil2)
 - [Usuário](#usuário)
@@ -21,7 +17,7 @@
 
 ## Definição do Produto :pencil2:
 
-O <a href="https://karinamel0.github.io/SAP007-data-lovers/">Ghibli Wiki</a> Foi elaborado com a finalidade de facilitar o dia a dia dos fãs e orienta-los com informações das suas obras preferidas do Studio Ghibli.
+O <a href="https://flavia-dantas.github.io/Demo-StudioGhibli/">Ghibli Wiki</a> Foi elaborado com a finalidade de facilitar o dia a dia dos fãs e orienta-los com informações das suas obras preferidas do Studio Ghibli.
 
 O Design do site foi pensando para trazer uma verdadeira imersão para o usuário, com a página Home sendo o portal de entrada, contendo um pouco do Studio e um Slide Show com alguns dos filmes mais famosos do Studio aqui no Brasil.
 
